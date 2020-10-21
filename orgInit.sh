@@ -1,0 +1,1 @@
+sfdx force:user:permset:assign -n Timeline_User
